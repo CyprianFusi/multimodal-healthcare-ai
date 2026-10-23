@@ -3,7 +3,7 @@
 
   # 🏥 DrBinati MedAssist: AI-Powered Multi-Modal Medical Analysis
 
-  _By **BINATI AInalytics**_
+  _By **Cyprian Fusi (BINATI AInalytics)**_
 </div>
 
 A research prototype that analyses ECG signals, medical images, and clinical notes together — using Claude or GPT-4 Vision — and synthesises 
