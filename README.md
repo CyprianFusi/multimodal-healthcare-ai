@@ -80,6 +80,7 @@ that the synthesis is grounded in prior context rather than the current case alo
 
 > Multi-modal learning aims to build models that process and relate information from multiple modalities, potentially improving predictive performance and robustness compared to single-modality approaches.
 
+---
 
 ## ✨ Features
 
