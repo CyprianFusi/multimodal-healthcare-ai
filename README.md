@@ -50,21 +50,6 @@ synthesis step that reasons across all of them at once. A retrieval-augmented
 generation (RAG) layer surfaces similar historical cases from the local database so
 that the synthesis is grounded in prior context rather than the current case alone.
 
-# Dissertation summary
-
-> This dissertation presents DrBinati MedAssist, a comprehensive multi-modal artificial intelligence system designed for integrated analysis of heterogeneous medical data. The system combines electrocardiogram (ECG) signals, medical imaging, and clinical notes to provide synthesized diagnostic insights using state-of-the-art large language models (LLMs) and vision-language models (VLMs).
-
-> Electrocardiography represents one of the most widely used diagnostic tools in cardiology, with over 300 million ECG recordings performed annually worldwide. 
-
-> Traditional ECG interpretation requires specialized training and expertise, with inter-observer variability ranging from 5-20% even among experienced cardiologists.
-
- > Medical imaging encompasses diverse modalities including X-ray radiography, computed tomography (CT), magnetic resonance imaging (MRI), ultrasound, and nuclear medicine. Each modality provides unique physiological and anatomical information, requiring specialized interpretation skills.
-
-> Clinical documentation forms the narrative backbone of patient care, capturing symptoms, physical examination findings, diagnostic reasoning, and treatment plans in natural language. Electronic health records (EHRs) have digitized this information, enabling computational analysis while introducing challenges related to inconsistent formatting, abbreviations, and medical jargon. 
-
-> Multi-modal learning aims to build models that process and relate information from multiple modalities, potentially improving predictive performance and robustness compared to single-modality approaches.
-
-
 **What it does:**
 
 - Reads 12-lead ECG recordings (WFDB, CSV, NumPy, raw `.dat`) and derives rhythm,
@@ -80,6 +65,21 @@ that the synthesis is grounded in prior context rather than the current case alo
 - Tracks token usage and cost for every call, with budget alerting
 
 ---
+
+# Dissertation summary
+
+> This dissertation presents DrBinati MedAssist, a comprehensive multi-modal artificial intelligence system designed for integrated analysis of heterogeneous medical data. The system combines electrocardiogram (ECG) signals, medical imaging, and clinical notes to provide synthesized diagnostic insights using state-of-the-art large language models (LLMs) and vision-language models (VLMs).
+
+> Electrocardiography represents one of the most widely used diagnostic tools in cardiology, with over 300 million ECG recordings performed annually worldwide. 
+
+> Traditional ECG interpretation requires specialized training and expertise, with inter-observer variability ranging from 5-20% even among experienced cardiologists.
+
+ > Medical imaging encompasses diverse modalities including X-ray radiography, computed tomography (CT), magnetic resonance imaging (MRI), ultrasound, and nuclear medicine. Each modality provides unique physiological and anatomical information, requiring specialized interpretation skills.
+
+> Clinical documentation forms the narrative backbone of patient care, capturing symptoms, physical examination findings, diagnostic reasoning, and treatment plans in natural language. Electronic health records (EHRs) have digitized this information, enabling computational analysis while introducing challenges related to inconsistent formatting, abbreviations, and medical jargon. 
+
+> Multi-modal learning aims to build models that process and relate information from multiple modalities, potentially improving predictive performance and robustness compared to single-modality approaches.
+
 
 ## ✨ Features
 
