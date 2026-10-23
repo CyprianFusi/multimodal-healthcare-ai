@@ -1,0 +1,41 @@
+CHIEF COMPLAINT:
+Acute onset substernal chest pressure
+
+HISTORY OF PRESENT ILLNESS:
+65-year-old male with a history of hypertension and hyperlipidemia presents
+with acute onset substernal chest pressure that began approximately 2 hours
+ago while at rest. The pain is described as a pressure/tightness sensation,
+radiating to the left arm. Associated symptoms include diaphoresis and
+shortness of breath. Patient denies any similar prior episodes. No recent
+trauma or exertional trigger identified.
+
+PAST MEDICAL HISTORY:
+- Hypertension, diagnosed 10 years ago
+- Hyperlipidemia, diagnosed 8 years ago
+- No prior cardiac events
+
+MEDICATIONS:
+- Lisinopril 10mg daily
+- Atorvastatin 40mg daily
+
+PHYSICAL EXAMINATION:
+General: Anxious-appearing male, diaphoretic, in moderate distress
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops
+Respiratory: Mild tachypnea, lungs clear to auscultation bilaterally
+Extremities: No peripheral edema, pulses intact bilaterally
+
+VITAL SIGNS:
+BP: 148/92 mmHg | HR: 95 bpm | RR: 20/min | SpO2: 96% on room air | Temp: 37.0C
+
+ASSESSMENT:
+Presentation highly suspicious for acute coronary syndrome, likely STEMI given
+symptom onset, radiation pattern, and associated symptoms.
+
+PLAN:
+IMMEDIATE INTERVENTIONS INITIATED:
+- Aspirin 325mg administered
+- Heparin bolus and infusion
+- Nitroglycerin sublingual
+- Cardiology consultation and catheterization laboratory activation
+- Serial troponin measurements
+- 12-lead ECG obtained

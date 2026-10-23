@@ -1,0 +1,38 @@
+CHIEF COMPLAINT:
+Shortness of breath and leg swelling
+
+HISTORY OF PRESENT ILLNESS:
+Patient with known congestive heart failure (ejection fraction 25%) presents
+with progressive shortness of breath and bilateral leg swelling over the
+past week. Reports orthopnea requiring three pillows to sleep and paroxysmal
+nocturnal dyspnea. Notes recent dietary indiscretion and inconsistent
+medication adherence.
+
+PAST MEDICAL HISTORY:
+- Chronic systolic heart failure, EF 25%
+- Coronary artery disease
+
+MEDICATIONS:
+- Furosemide 40mg daily (reports missed doses)
+- Metoprolol succinate 50mg daily
+- Lisinopril 20mg daily
+
+PHYSICAL EXAMINATION:
+General: Mild respiratory distress, able to speak in full sentences
+Cardiovascular: Jugular venous distension present, S3 gallop noted
+Respiratory: Bilateral crackles at lung bases
+Extremities: 2+ bilateral pitting leg edema
+
+VITAL SIGNS:
+BP: 138/84 mmHg | HR: 92 bpm | RR: 22/min | SpO2: 94% on room air | Weight: up 4kg from baseline
+
+ASSESSMENT:
+Acute on chronic systolic heart failure exacerbation, likely precipitated by
+dietary indiscretion and medication non-adherence.
+
+PLAN:
+- IV diuretic therapy initiated
+- Strict fluid restriction and daily weights
+- Sodium-restricted diet
+- Continue guideline-directed medical therapy
+- Monitor renal function and electrolytes

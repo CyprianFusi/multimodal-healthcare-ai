@@ -1,0 +1,10 @@
+{
+  "filename": "ecg_sample_5_st_elevation.dat",
+  "pattern": "st_elevation",
+  "description": "ST segment elevation, possible MI",
+  "sampling_rate": 500,
+  "duration": 30,
+  "num_leads": 12,
+  "heart_rate": 95,
+  "generated": "2026-01-01T10:00:40.686364"
+}

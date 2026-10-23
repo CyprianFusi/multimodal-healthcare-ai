@@ -1,0 +1,10 @@
+{
+  "filename": "ecg_sample_3_bradycardia.dat",
+  "pattern": "bradycardia",
+  "description": "Sinus bradycardia",
+  "sampling_rate": 500,
+  "duration": 30,
+  "num_leads": 12,
+  "heart_rate": 45,
+  "generated": "2026-01-01T10:00:37.185279"
+}

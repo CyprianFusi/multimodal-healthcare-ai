@@ -1,0 +1,34 @@
+CHIEF COMPLAINT:
+Fever and cough
+
+HISTORY OF PRESENT ILLNESS:
+Patient presents with a 3-day history of fever, productive cough, and
+progressive shortness of breath. Cough is productive of yellow-green sputum.
+Patient reports associated pleuritic chest pain with deep inspiration and
+generalized fatigue. No recent travel or sick contacts reported.
+
+PAST MEDICAL HISTORY:
+- No significant past medical history
+- No prior respiratory illness
+
+MEDICATIONS:
+- None regularly
+
+PHYSICAL EXAMINATION:
+General: Ill-appearing, mild respiratory distress
+Respiratory: Crackles auscultated in the right lower lobe, dullness to
+percussion over the same region, productive cough noted during exam
+Cardiovascular: Tachycardic, regular rhythm, no murmurs
+
+VITAL SIGNS:
+Temp: 38.9C | HR: 108 bpm | RR: 24/min | SpO2: 93% on room air | BP: 122/78 mmHg
+
+ASSESSMENT:
+Community-acquired pneumonia, right lower lobe, with hypoxemia.
+
+PLAN:
+- Empiric antibiotic therapy initiated
+- Supplemental oxygen therapy to maintain SpO2 >92%
+- Chest radiograph obtained
+- Blood cultures and sputum culture sent
+- Monitor respiratory status; admit for observation

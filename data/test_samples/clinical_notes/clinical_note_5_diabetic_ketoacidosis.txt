@@ -1,0 +1,36 @@
+CHIEF COMPLAINT:
+Nausea, vomiting, and confusion
+
+HISTORY OF PRESENT ILLNESS:
+Patient with type 1 diabetes mellitus presents with a 1-day history of
+nausea, vomiting, and progressive confusion. Family reports the patient has
+missed several insulin doses over the past 2 days due to illness. Reports
+excessive thirst and frequent urination preceding presentation.
+
+PAST MEDICAL HISTORY:
+- Type 1 diabetes mellitus, diagnosed in childhood
+
+MEDICATIONS:
+- Insulin glargine (reports missed doses)
+- Insulin lispro with meals (reports missed doses)
+
+PHYSICAL EXAMINATION:
+General: Lethargic, ill-appearing, Kussmaul respirations noted
+HEENT: Dry mucous membranes, fruity breath odor
+Cardiovascular: Tachycardic, regular rhythm
+Neurological: Confused, oriented to person only
+
+VITAL SIGNS:
+Glucose: 485 mg/dL | pH: 7.12 | Ketones: 4+ | HR: 118 bpm | RR: 28/min
+(Kussmaul) | BP: 102/64 mmHg | Temp: 37.4C
+
+ASSESSMENT:
+Diabetic ketoacidosis, severe, precipitated by insulin non-adherence during
+intercurrent illness.
+
+PLAN:
+- IV insulin drip initiated
+- Aggressive IV fluid resuscitation
+- Serial electrolyte monitoring, potassium repletion as needed
+- Identify and treat precipitating illness
+- ICU-level monitoring

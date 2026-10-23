@@ -1,0 +1,10 @@
+{
+  "filename": "ecg_sample_4_irregular.dat",
+  "pattern": "irregular",
+  "description": "Irregular rhythm, possible atrial fibrillation",
+  "sampling_rate": 500,
+  "duration": 30,
+  "num_leads": 12,
+  "heart_rate": 85,
+  "generated": "2026-01-01T10:00:38.856845"
+}

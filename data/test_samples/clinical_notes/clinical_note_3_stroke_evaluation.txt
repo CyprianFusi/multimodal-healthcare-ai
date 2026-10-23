@@ -1,0 +1,37 @@
+CHIEF COMPLAINT:
+Left-sided weakness
+
+HISTORY OF PRESENT ILLNESS:
+Patient presents with sudden onset left-sided weakness that began
+approximately 45 minutes prior to arrival. Family reports the patient was
+last known well 45 minutes ago. Associated symptoms include left facial
+droop and slurred speech (dysarthria). No reported loss of consciousness,
+seizure activity, or head trauma.
+
+PAST MEDICAL HISTORY:
+- Atrial fibrillation, not anticoagulated
+- Hypertension
+
+MEDICATIONS:
+- Amlodipine 5mg daily
+
+PHYSICAL EXAMINATION:
+General: Alert, in mild distress, appears anxious
+Neurological: Left facial droop, left arm and leg weakness (3/5 strength),
+dysarthria present, NIHSS score 12 (moderate stroke severity)
+Cardiovascular: Irregularly irregular rhythm consistent with known atrial
+fibrillation
+
+VITAL SIGNS:
+BP: 172/96 mmHg | HR: 88 bpm irregular | RR: 18/min | SpO2: 97% | Glucose: 118 mg/dL
+
+ASSESSMENT:
+Acute ischemic stroke, left hemiparesis, NIHSS 12, within tPA eligibility
+window given onset 45 minutes prior to presentation.
+
+PLAN:
+- Acute stroke protocol activated
+- STAT non-contrast head CT obtained to rule out hemorrhage
+- tPA eligibility assessment in progress
+- Neurology consultation
+- Continuous cardiac and neurological monitoring

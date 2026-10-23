@@ -1,0 +1,10 @@
+{
+  "filename": "ecg_sample_1_normal.dat",
+  "pattern": "normal",
+  "description": "Normal sinus rhythm",
+  "sampling_rate": 500,
+  "duration": 30,
+  "num_leads": 12,
+  "heart_rate": 75,
+  "generated": "2026-01-01T10:00:33.761405"
+}
