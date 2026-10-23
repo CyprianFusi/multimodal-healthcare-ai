@@ -1,0 +1,73 @@
+# Core API clients
+anthropic
+openai
+boto3  # For AWS Bedrock
+
+# LangChain ecosystem
+langchain
+langchain-anthropic
+langchain-openai
+langchain-postgres
+
+# Medical signal processing
+neurokit2
+wfdb
+scipy
+numpy
+
+# Medical imaging
+pydicom
+SimpleITK
+opencv-python
+Pillow
+sentence_transformers
+
+# NLP and de-identification
+# Option A: Use standard spacy (installed) - use 'python -m spacy download en_core_web_sm'
+spacy>=3.8.0
+# Option B: Use scispacy (requires compatible versions - commented out for now)
+# spacy==3.7.5
+# scispacy==0.5.5
+# Install scispacy model: pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_md-0.5.4.tar.gz
+
+presidio-analyzer
+presidio-anonymizer
+
+# Database and vector store
+psycopg2-binary
+pgvector
+sqlalchemy
+
+# Web framework and API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# UI
+streamlit
+plotly
+streamlit-plotly-events
+
+# Utilities
+python-dotenv
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+asyncio
+aiohttp
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+
+# Data handling
+pandas
+openpyxl
+kaggle  # For downloading ROCO dataset
+
+# Monitoring and logging
+loguru
+sentry-sdk
